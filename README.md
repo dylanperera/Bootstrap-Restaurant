@@ -2,7 +2,7 @@
 
 Built a mock restaurant website using Bootstrap, features include navbars, modals, forms, and the grid system.
 
-[Live Demo](dylanperera.github.io/Bootstrap-Restaurant) :point_left:
+[Live Demo](https://dylanperera.github.io/Bootstrap-Restaurant) :point_left:
 
 ### Features
 - Navbars
