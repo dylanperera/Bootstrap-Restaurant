@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "hompage": "http://dylanperera.github.io/bootstrap-gh-pages",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
