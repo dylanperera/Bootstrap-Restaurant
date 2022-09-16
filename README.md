@@ -4,7 +4,7 @@ Built a mock restaurant website using Bootstrap, features include navbars, modal
 
 [Live Demo](dylanperera.github.io/Bootstrap-Restaurant) :point_left:
 
-## Features
+### Features
 - Navbars
 - Form to reserve a table and send feedback
 - Tables to display data
@@ -13,6 +13,6 @@ Built a mock restaurant website using Bootstrap, features include navbars, modal
 - Tabbed Navigation to show the user where they are relative to main page
 - Accordion to display facts about employees
 
-## Future Implementations:
+### Future Implementations:
 1. Implement a menu page to show different foods on the pages
 2. Implement a backend, so that the user can save the data they enter (like reserving a table) and send notifications to the users phone or email to notify them whether the reservation has been confirmed. 
